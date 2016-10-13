@@ -69,7 +69,7 @@ LEARNING_RATE = .01
 GRAD_CLIP = 100
 
 # How often should we check the output?
-PRINT_FREQ = 1000
+PRINT_FREQ = 100 #1000
 
 # Number of epochs to train the net
 NUM_EPOCHS = 50
